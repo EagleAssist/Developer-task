@@ -1,4 +1,4 @@
-#Catalogue and Discount Rules
+Catalogue and Discount Rules
 
 This program calculates the total cost of purchasing products based on the quantities provided by the user. It also applies relevant discounts and calculates fees for gift wrapping and shipping.
 Program Execution Steps
