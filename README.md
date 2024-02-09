@@ -8,6 +8,8 @@ Calculate the subtotal for the products.
 Determine the applicable discount based on the rules provided.
 Calculate the shipping fee and gift wrap fee.
 Display the breakdown of the purchase including product details, discounts applied, fees, and the total cost.
+
+
 Languages Used
 
 Python
